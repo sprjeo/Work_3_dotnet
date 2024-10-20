@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.AssemblyInfo.cs
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new folder\lab\num3\bin\Debug\net7.0\num3.exe
+C:\Users\User\Desktop\new folder\lab\num3\bin\Debug\net7.0\num3.deps.json
+C:\Users\User\Desktop\new folder\lab\num3\bin\Debug\net7.0\num3.runtimeconfig.json
+C:\Users\User\Desktop\new folder\lab\num3\bin\Debug\net7.0\num3.dll
+C:\Users\User\Desktop\new folder\lab\num3\bin\Debug\net7.0\num3.pdb
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.dll
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\refint\num3.dll
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.pdb
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.genruntimeconfig.cache
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\ref\num3.dll
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\new folder\lab\num3\obj\Debug\net7.0\num3.csproj.CopyComplete
