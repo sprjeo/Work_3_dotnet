@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\new folder\lab\num6\bin\Debug\net7.0\num6.exe
+C:\Users\User\Desktop\new folder\lab\num6\bin\Debug\net7.0\num6.deps.json
+C:\Users\User\Desktop\new folder\lab\num6\bin\Debug\net7.0\num6.runtimeconfig.json
+C:\Users\User\Desktop\new folder\lab\num6\bin\Debug\net7.0\num6.dll
+C:\Users\User\Desktop\new folder\lab\num6\bin\Debug\net7.0\num6.pdb
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.AssemblyInfo.cs
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.dll
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\refint\num6.dll
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.pdb
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\num6.genruntimeconfig.cache
+C:\Users\User\Desktop\new folder\lab\num6\obj\Debug\net7.0\ref\num6.dll
